@@ -1,0 +1,14 @@
+name: ExtremeWeather
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - ipywidgets
+  - jupyterlab
+  - matplotlib
+  - pandas
+  - requests
+  - seaborn
+  - tqdm
